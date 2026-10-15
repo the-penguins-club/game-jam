@@ -1,2 +1,5 @@
-# gmtk-2025-loop
-submission attempt for GMTK-2025 (https://itch.io/jam/gmtk-2025)
+# GMTK Game Jam
+
+GMTK Game Jam yearly submissions: https://gamemakerstoolkit.com/jam/
+
+Collaborate, build, submit!
