@@ -1,5 +1,5 @@
 # GMTK Game Jam
 
-GMTK Game Jam yearly submissions: https://gamemakerstoolkit.com/jam/
+Yearly at least one game submissions from TPC to [GMTK Game Jam](https://gamemakerstoolkit.com/jam/)
 
-Collaborate, build, submit!
+Collaborate, build, submit! And win prizes! 
